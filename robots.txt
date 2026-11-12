@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eternity-call-playlist.github.io/eternity-events-website/sitemap.xml
