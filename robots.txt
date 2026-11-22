@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://eternity-call-playlist.github.io/eternity-events-website/sitemap.xml
+Sitemap: https://eternity-call-playlist.github.io/india-district-events/sitemap.xml
